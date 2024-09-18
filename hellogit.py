@@ -1,1 +1,1 @@
-print("ahora estoy editando el fichero :o")
+print("ahora estoy editando el fichero :|O")
